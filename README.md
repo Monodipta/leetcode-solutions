@@ -1,2 +1,2 @@
 # leetcode-solutions
-Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview! - Created using [LeetHub AI](https://github.com/gaulghost)
+Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub AI](https://github.com/gaulghost)
