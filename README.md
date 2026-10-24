@@ -10,7 +10,7 @@ My personal collection of LeetCode solutions, built up while preparing for codin
 **LeetCode profile:** [leetcode.com/u/monodipta-maity](https://leetcode.com/u/monodipta-maity/)
 
 <p align="center">
-  <a href="https://leetcode.com/u/5qPrJDuSWg/">
+  <a href="https://leetcode.com/u/monodipta-maity/">
     <img src="https://leetcard.jacoblin.cool/5qPrJDuSWg?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" />
   </a>
 </p>
