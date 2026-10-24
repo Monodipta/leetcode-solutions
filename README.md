@@ -36,11 +36,38 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 ## Progress
 
 <!-- PROGRESS:START -->
+| Difficulty | Solved |
+|------------|:------:|
+| Easy       | 11 |
+| Medium     | 8 |
+| Hard       | 0 |
+| **Total**  | **19** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
 
 <!-- PROBLEMS:START -->
+| #    | Problem | Difficulty | Language |
+|-----:|---------|:----------:|----------|
+| 1 | [Two Sum](./0001-two-sum) | Easy | Java |
+| 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Medium | Java |
+| 26 | [Remove Duplicates from Sorted Array](./0026-remove-duplicates-from-sorted-array) | Easy | Java |
+| 53 | [Maximum Subarray](./0053-maximum-subarray) | Medium | Java |
+| 56 | [Merge Intervals](./0056-merge-intervals) | Medium | Java |
+| 75 | [Sort Colors](./0075-sort-colors) | Medium | Java |
+| 88 | [Merge Sorted Array](./0088-merge-sorted-array) | Easy | Java |
+| 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) | Easy | Java |
+| 125 | [Valid Palindrome](./0125-valid-palindrome) | Easy | Java |
+| 148 | [Sort List](./0148-sort-list) | Medium | Java |
+| 167 | [Two Sum II - Input Array Is Sorted](./0167-two-sum-ii-input-array-is-sorted) | Medium | Java |
+| 179 | [Largest Number](./0179-largest-number) | Medium | Java |
+| 217 | [Contains Duplicate](./0217-contains-duplicate) | Easy | Java |
+| 242 | [Valid Anagram](./0242-valid-anagram) | Easy | Java |
+| 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
+| 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Easy | Java |
+| 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
+| 912 | [Sort an Array](./0912-sort-an-array) | Medium | Java |
+| 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Easy | Java |
 <!-- PROBLEMS:END -->
 
 ## How This Repo Works
