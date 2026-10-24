@@ -88,7 +88,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 I'm **Monodipta Maity**, a software engineer working mainly with Java, Spring Boot and microservices. I use LeetCode to keep my data structures and algorithms skills sharp.
 
 - GitHub: [@Monodipta](https://github.com/Monodipta)
-- LeetCode: [5qPrJDuSWg](https://leetcode.com/u/monodipta-maity/)
+- LeetCode: [monodipta-maity](https://leetcode.com/u/monodipta-maity/)
 
 ---
 
