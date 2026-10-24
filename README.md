@@ -11,7 +11,7 @@ My personal collection of LeetCode solutions, built up while preparing for codin
 
 <p align="center">
   <a href="https://leetcode.com/u/monodipta-maity/">
-    <img src="https://leetcard.jacoblin.cool/5qPrJDuSWg?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" />
+    <img src="https://leetcard.jacoblin.cool/monodipta-maity?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" />
   </a>
 </p>
 
