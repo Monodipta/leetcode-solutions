@@ -7,7 +7,7 @@
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
 
-**LeetCode profile:** [leetcode.com/u/5qPrJDuSWg](https://leetcode.com/u/5qPrJDuSWg/)
+**LeetCode profile:** [leetcode.com/u/monodipta-maity](https://leetcode.com/u/monodipta-maity/)
 
 <p align="center">
   <a href="https://leetcode.com/u/5qPrJDuSWg/">
@@ -72,7 +72,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 
 ## How This Repo Works
 
-1. I solve a problem on [LeetCode](https://leetcode.com/u/5qPrJDuSWg/).
+1. I solve a problem on [LeetCode](https://leetcode.com/u/monodipta-maity/).
 2. After an accepted submission, **LeetHub AI** pushes the solution and problem description to this repo.
 3. A new folder appears, named `<number>-<problem-slug>`.
 4. A GitHub Action (`.github/workflows/update-readme.yml`) scans the folders and refreshes the progress counts and the problems table in this README automatically.
@@ -88,7 +88,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 I'm **Monodipta Maity**, a software engineer working mainly with Java, Spring Boot and microservices. I use LeetCode to keep my data structures and algorithms skills sharp.
 
 - GitHub: [@Monodipta](https://github.com/Monodipta)
-- LeetCode: [5qPrJDuSWg](https://leetcode.com/u/5qPrJDuSWg/)
+- LeetCode: [5qPrJDuSWg](https://leetcode.com/u/monodipta-maity/)
 
 ---
 
