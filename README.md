@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-5qPrJDuSWg-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/5qPrJDuSWg/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-27-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-28-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 12 |
-| Medium     | 15 |
+| Medium     | 16 |
 | Hard       | 0 |
-| **Total**  | **27** |
+| **Total**  | **28** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -58,6 +58,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 53 | [Maximum Subarray](./0053-maximum-subarray) | Medium | Java |
 | 56 | [Merge Intervals](./0056-merge-intervals) | Medium | Java |
 | 57 | [Insert Interval](./0057-insert-interval) | Medium | Java |
+| 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Medium | - |
 | 75 | [Sort Colors](./0075-sort-colors) | Medium | Java |
 | 88 | [Merge Sorted Array](./0088-merge-sorted-array) | Easy | Java |
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) | Easy | Java |
@@ -73,7 +74,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
 | 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Easy | Java |
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
-| 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | - |
+| 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | Java |
 | 912 | [Sort an Array](./0912-sort-an-array) | Medium | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Easy | Java |
 <!-- PROBLEMS:END -->
