@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-5qPrJDuSWg-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/5qPrJDuSWg/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-25-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-26-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 12 |
-| Medium     | 13 |
+| Medium     | 14 |
 | Hard       | 0 |
-| **Total**  | **25** |
+| **Total**  | **26** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -63,7 +63,8 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) | Easy | Java |
 | 125 | [Valid Palindrome](./0125-valid-palindrome) | Easy | Java |
 | 148 | [Sort List](./0148-sort-list) | Medium | Java |
-| 153 | [Find Minimum in Rotated Sorted Array](./0153-find-minimum-in-rotated-sorted-array) | Medium | - |
+| 153 | [Find Minimum in Rotated Sorted Array](./0153-find-minimum-in-rotated-sorted-array) | Medium | Java |
+| 162 | [Find Peak Element](./0162-find-peak-element) | Medium | - |
 | 167 | [Two Sum II - Input Array Is Sorted](./0167-two-sum-ii-input-array-is-sorted) | Medium | Java |
 | 179 | [Largest Number](./0179-largest-number) | Medium | Java |
 | 215 | [Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array) | Medium | Java |
