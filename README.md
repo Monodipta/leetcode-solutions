@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-5qPrJDuSWg-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/5qPrJDuSWg/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-26-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-27-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 12 |
-| Medium     | 14 |
+| Medium     | 15 |
 | Hard       | 0 |
-| **Total**  | **26** |
+| **Total**  | **27** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -64,7 +64,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 125 | [Valid Palindrome](./0125-valid-palindrome) | Easy | Java |
 | 148 | [Sort List](./0148-sort-list) | Medium | Java |
 | 153 | [Find Minimum in Rotated Sorted Array](./0153-find-minimum-in-rotated-sorted-array) | Medium | Java |
-| 162 | [Find Peak Element](./0162-find-peak-element) | Medium | - |
+| 162 | [Find Peak Element](./0162-find-peak-element) | Medium | Java |
 | 167 | [Two Sum II - Input Array Is Sorted](./0167-two-sum-ii-input-array-is-sorted) | Medium | Java |
 | 179 | [Largest Number](./0179-largest-number) | Medium | Java |
 | 215 | [Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array) | Medium | Java |
@@ -73,6 +73,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
 | 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Easy | Java |
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
+| 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | - |
 | 912 | [Sort an Array](./0912-sort-an-array) | Medium | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Easy | Java |
 <!-- PROBLEMS:END -->
