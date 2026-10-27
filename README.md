@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-5qPrJDuSWg-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/5qPrJDuSWg/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-28-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-29-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 12 |
-| Medium     | 16 |
+| Medium     | 17 |
 | Hard       | 0 |
-| **Total**  | **28** |
+| **Total**  | **29** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -58,7 +58,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 53 | [Maximum Subarray](./0053-maximum-subarray) | Medium | Java |
 | 56 | [Merge Intervals](./0056-merge-intervals) | Medium | Java |
 | 57 | [Insert Interval](./0057-insert-interval) | Medium | Java |
-| 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Medium | - |
+| 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Medium | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Medium | Java |
 | 88 | [Merge Sorted Array](./0088-merge-sorted-array) | Easy | Java |
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) | Easy | Java |
@@ -70,6 +70,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 179 | [Largest Number](./0179-largest-number) | Medium | Java |
 | 215 | [Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array) | Medium | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Easy | Java |
+| 240 | [Search a 2D Matrix II](./0240-search-a-2d-matrix-ii) | Medium | - |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Easy | Java |
 | 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
 | 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Easy | Java |
