@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-5qPrJDuSWg-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/5qPrJDuSWg/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-33-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-34-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 14 |
-| Medium     | 18 |
+| Medium     | 19 |
 | Hard       | 1 |
-| **Total**  | **33** |
+| **Total**  | **34** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -55,6 +55,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array) | Medium | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array) | Medium | Java |
 | 35 | [Search Insert Position](./0035-search-insert-position) | Easy | Java |
+| 49 | [Group Anagrams](./0049-group-anagrams) | Medium | - |
 | 53 | [Maximum Subarray](./0053-maximum-subarray) | Medium | Java |
 | 56 | [Merge Intervals](./0056-merge-intervals) | Medium | Java |
 | 57 | [Insert Interval](./0057-insert-interval) | Medium | Java |
@@ -76,7 +77,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
 | 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Easy | Java |
 | 383 | [Ransom Note](./0383-ransom-note) | Easy | Java |
-| 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Easy | - |
+| 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Easy | Java |
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
 | 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | Java |
 | 912 | [Sort an Array](./0912-sort-an-array) | Medium | Java |
