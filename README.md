@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-5qPrJDuSWg-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/5qPrJDuSWg/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-32-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-33-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -38,10 +38,10 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 <!-- PROGRESS:START -->
 | Difficulty | Solved |
 |------------|:------:|
-| Easy       | 13 |
+| Easy       | 14 |
 | Medium     | 18 |
 | Hard       | 1 |
-| **Total**  | **32** |
+| **Total**  | **33** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -75,7 +75,8 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 242 | [Valid Anagram](./0242-valid-anagram) | Easy | Java |
 | 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
 | 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Easy | Java |
-| 383 | [Ransom Note](./0383-ransom-note) | Easy | - |
+| 383 | [Ransom Note](./0383-ransom-note) | Easy | Java |
+| 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Easy | - |
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
 | 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | Java |
 | 912 | [Sort an Array](./0912-sort-an-array) | Medium | Java |
