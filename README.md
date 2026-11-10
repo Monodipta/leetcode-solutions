@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-5qPrJDuSWg-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/5qPrJDuSWg/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-34-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-35-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 14 |
-| Medium     | 19 |
+| Medium     | 20 |
 | Hard       | 1 |
-| **Total**  | **34** |
+| **Total**  | **35** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -55,7 +55,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array) | Medium | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array) | Medium | Java |
 | 35 | [Search Insert Position](./0035-search-insert-position) | Easy | Java |
-| 49 | [Group Anagrams](./0049-group-anagrams) | Medium | - |
+| 49 | [Group Anagrams](./0049-group-anagrams) | Medium | Java |
 | 53 | [Maximum Subarray](./0053-maximum-subarray) | Medium | Java |
 | 56 | [Merge Intervals](./0056-merge-intervals) | Medium | Java |
 | 57 | [Insert Interval](./0057-insert-interval) | Medium | Java |
@@ -64,6 +64,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 88 | [Merge Sorted Array](./0088-merge-sorted-array) | Easy | Java |
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) | Easy | Java |
 | 125 | [Valid Palindrome](./0125-valid-palindrome) | Easy | Java |
+| 128 | [Longest Consecutive Sequence](./0128-longest-consecutive-sequence) | Medium | - |
 | 148 | [Sort List](./0148-sort-list) | Medium | Java |
 | 153 | [Find Minimum in Rotated Sorted Array](./0153-find-minimum-in-rotated-sorted-array) | Medium | Java |
 | 154 | [Find Minimum in Rotated Sorted Array II](./0154-find-minimum-in-rotated-sorted-array-ii) | Hard | Java |
