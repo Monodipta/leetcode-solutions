@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-5qPrJDuSWg-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/5qPrJDuSWg/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-39-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-40-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 16 |
-| Medium     | 22 |
+| Medium     | 23 |
 | Hard       | 1 |
-| **Total**  | **39** |
+| **Total**  | **40** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -74,7 +74,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Easy | Java |
 | 215 | [Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array) | Medium | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Easy | Java |
-| 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Easy | - |
+| 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Easy | Java |
 | 240 | [Search a 2D Matrix II](./0240-search-a-2d-matrix-ii) | Medium | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Easy | Java |
 | 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
@@ -82,6 +82,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 347 | [Top K Frequent Elements](./0347-top-k-frequent-elements) | Medium | Java |
 | 383 | [Ransom Note](./0383-ransom-note) | Easy | Java |
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Easy | Java |
+| 454 | [4Sum II](./0454-4sum-ii) | Medium | - |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Medium | Java |
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
 | 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | Java |
