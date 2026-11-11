@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-5qPrJDuSWg-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/5qPrJDuSWg/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-41-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-42-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 17 |
-| Medium     | 23 |
+| Medium     | 24 |
 | Hard       | 1 |
-| **Total**  | **41** |
+| **Total**  | **42** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -51,6 +51,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 |-----:|---------|:----------:|----------|
 | 1 | [Two Sum](./0001-two-sum) | Easy | Java |
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Medium | Java |
+| 11 | [Container With Most Water](./0011-container-with-most-water) | Medium | - |
 | 26 | [Remove Duplicates from Sorted Array](./0026-remove-duplicates-from-sorted-array) | Easy | Java |
 | 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array) | Medium | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array) | Medium | Java |
@@ -87,7 +88,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
 | 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | Java |
 | 912 | [Sort an Array](./0912-sort-an-array) | Medium | Java |
-| 977 | [Squares of a Sorted Array](./0977-squares-of-a-sorted-array) | Easy | - |
+| 977 | [Squares of a Sorted Array](./0977-squares-of-a-sorted-array) | Easy | Java |
 | 1011 | [Capacity To Ship Packages Within D Days](./1011-capacity-to-ship-packages-within-d-days) | Medium | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Easy | Java |
 <!-- PROBLEMS:END -->
