@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-5qPrJDuSWg-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/5qPrJDuSWg/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-5qPrJDuSWg-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-42-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
