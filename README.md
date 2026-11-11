@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-5qPrJDuSWg-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/5qPrJDuSWg/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-35-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-36-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 14 |
-| Medium     | 20 |
+| Medium     | 21 |
 | Hard       | 1 |
-| **Total**  | **35** |
+| **Total**  | **36** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -64,7 +64,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 88 | [Merge Sorted Array](./0088-merge-sorted-array) | Easy | Java |
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) | Easy | Java |
 | 125 | [Valid Palindrome](./0125-valid-palindrome) | Easy | Java |
-| 128 | [Longest Consecutive Sequence](./0128-longest-consecutive-sequence) | Medium | - |
+| 128 | [Longest Consecutive Sequence](./0128-longest-consecutive-sequence) | Medium | Java |
 | 148 | [Sort List](./0148-sort-list) | Medium | Java |
 | 153 | [Find Minimum in Rotated Sorted Array](./0153-find-minimum-in-rotated-sorted-array) | Medium | Java |
 | 154 | [Find Minimum in Rotated Sorted Array II](./0154-find-minimum-in-rotated-sorted-array-ii) | Hard | Java |
@@ -77,6 +77,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 242 | [Valid Anagram](./0242-valid-anagram) | Easy | Java |
 | 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
 | 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Easy | Java |
+| 347 | [Top K Frequent Elements](./0347-top-k-frequent-elements) | Medium | - |
 | 383 | [Ransom Note](./0383-ransom-note) | Easy | Java |
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Easy | Java |
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
