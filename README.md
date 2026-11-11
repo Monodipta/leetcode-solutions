@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-42-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-43-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 17 |
-| Medium     | 24 |
+| Medium     | 25 |
 | Hard       | 1 |
-| **Total**  | **42** |
+| **Total**  | **43** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -51,7 +51,8 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 |-----:|---------|:----------:|----------|
 | 1 | [Two Sum](./0001-two-sum) | Easy | Java |
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Medium | Java |
-| 11 | [Container With Most Water](./0011-container-with-most-water) | Medium | - |
+| 11 | [Container With Most Water](./0011-container-with-most-water) | Medium | Java |
+| 15 | [3Sum](./0015-3sum) | Medium | - |
 | 26 | [Remove Duplicates from Sorted Array](./0026-remove-duplicates-from-sorted-array) | Easy | Java |
 | 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array) | Medium | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array) | Medium | Java |
