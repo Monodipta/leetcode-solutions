@@ -103,7 +103,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 974 | [Subarray Sums Divisible by K](./0974-subarray-sums-divisible-by-k) | Medium | Java |
 | 977 | [Squares of a Sorted Array](./0977-squares-of-a-sorted-array) | Easy | Java |
 | 1011 | [Capacity To Ship Packages Within D Days](./1011-capacity-to-ship-packages-within-d-days) | Medium | Java |
-| 1314 | [Matrix Block Sum](./1314-matrix-block-sum) | Medium | - |
+| 1314 | [Matrix Block Sum](./1314-matrix-block-sum) | Medium | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Easy | Java |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude) | Easy | Java |
 <!-- PROBLEMS:END -->
