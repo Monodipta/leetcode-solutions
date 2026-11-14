@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-51-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-52-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -38,10 +38,10 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 <!-- PROGRESS:START -->
 | Difficulty | Solved |
 |------------|:------:|
-| Easy       | 19 |
+| Easy       | 20 |
 | Medium     | 30 |
 | Hard       | 2 |
-| **Total**  | **51** |
+| **Total**  | **52** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -80,7 +80,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 215 | [Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array) | Medium | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Easy | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Easy | Java |
-| 238 | [Product of Array Except Self](./0238-product-of-array-except-self) | Medium | - |
+| 238 | [Product of Array Except Self](./0238-product-of-array-except-self) | Medium | Java |
 | 240 | [Search a 2D Matrix II](./0240-search-a-2d-matrix-ii) | Medium | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Easy | Java |
 | 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
@@ -100,6 +100,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 977 | [Squares of a Sorted Array](./0977-squares-of-a-sorted-array) | Easy | Java |
 | 1011 | [Capacity To Ship Packages Within D Days](./1011-capacity-to-ship-packages-within-d-days) | Medium | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Easy | Java |
+| 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude) | Easy | - |
 <!-- PROBLEMS:END -->
 
 ## How This Repo Works
