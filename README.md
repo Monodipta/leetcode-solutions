@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-57-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-58-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 20 |
-| Medium     | 35 |
+| Medium     | 36 |
 | Hard       | 2 |
-| **Total**  | **57** |
+| **Total**  | **58** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -77,6 +77,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 167 | [Two Sum II - Input Array Is Sorted](./0167-two-sum-ii-input-array-is-sorted) | Medium | Java |
 | 179 | [Largest Number](./0179-largest-number) | Medium | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Easy | Java |
+| 209 | [Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum) | Medium | - |
 | 215 | [Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array) | Medium | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Easy | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Easy | Java |
