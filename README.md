@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-59-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-60-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 20 |
-| Medium     | 37 |
+| Medium     | 38 |
 | Hard       | 2 |
-| **Total**  | **59** |
+| **Total**  | **60** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -90,11 +90,12 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 347 | [Top K Frequent Elements](./0347-top-k-frequent-elements) | Medium | Java |
 | 383 | [Ransom Note](./0383-ransom-note) | Easy | Java |
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Easy | Java |
+| 438 | [Find All Anagrams in a String](./0438-find-all-anagrams-in-a-string) | Medium | - |
 | 454 | [4Sum II](./0454-4sum-ii) | Medium | Java |
 | 523 | [Continuous Subarray Sum](./0523-continuous-subarray-sum) | Medium | Java |
 | 525 | [Contiguous Array](./0525-contiguous-array) | Medium | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Medium | Java |
-| 567 | [Permutation in String](./0567-permutation-in-string) | Medium | - |
+| 567 | [Permutation in String](./0567-permutation-in-string) | Medium | Java |
 | 611 | [Valid Triangle Number](./0611-valid-triangle-number) | Medium | Java |
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
 | 724 | [Find Pivot Index](./0724-find-pivot-index) | Easy | Java |
