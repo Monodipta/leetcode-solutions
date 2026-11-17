@@ -8,7 +8,7 @@ class Solution {
         for(int right=0;right<fruits.length;right++){
             map.put(fruits[right],map.getOrDefault(fruits[right],0)+1);
 
-            if(map.size()>2){
+            while(map.size()>2){
                 int fruit=fruits[left];
 
                 map.put(fruit,map.get(fruit)-1);
