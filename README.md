@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-63-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-64-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -40,8 +40,8 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 |------------|:------:|
 | Easy       | 20 |
 | Medium     | 41 |
-| Hard       | 2 |
-| **Total**  | **63** |
+| Hard       | 3 |
+| **Total**  | **64** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -82,6 +82,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Easy | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Easy | Java |
 | 238 | [Product of Array Except Self](./0238-product-of-array-except-self) | Medium | Java |
+| 239 | [Sliding Window Maximum](./0239-sliding-window-maximum) | Hard | - |
 | 240 | [Search a 2D Matrix II](./0240-search-a-2d-matrix-ii) | Medium | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Easy | Java |
 | 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
