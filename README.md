@@ -102,7 +102,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 724 | [Find Pivot Index](./0724-find-pivot-index) | Easy | Java |
 | 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | Java |
 | 881 | [Boats to Save People](./0881-boats-to-save-people) | Medium | Java |
-| 904 | [Fruit Into Baskets](./0904-fruit-into-baskets) | Medium | - |
+| 904 | [Fruit Into Baskets](./0904-fruit-into-baskets) | Medium | Java |
 | 905 | [Sort Array By Parity](./0905-sort-array-by-parity) | Easy | Java |
 | 912 | [Sort an Array](./0912-sort-an-array) | Medium | Java |
 | 974 | [Subarray Sums Divisible by K](./0974-subarray-sums-divisible-by-k) | Medium | Java |
