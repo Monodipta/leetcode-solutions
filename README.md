@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-66-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-67-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -38,10 +38,10 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 <!-- PROGRESS:START -->
 | Difficulty | Solved |
 |------------|:------:|
-| Easy       | 20 |
+| Easy       | 21 |
 | Medium     | 43 |
 | Hard       | 3 |
-| **Total**  | **66** |
+| **Total**  | **67** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -67,6 +67,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Medium | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Medium | Java |
 | 88 | [Merge Sorted Array](./0088-merge-sorted-array) | Easy | Java |
+| 104 | [Maximum Depth of Binary Tree](./0104-maximum-depth-of-binary-tree) | Easy | - |
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) | Easy | Java |
 | 125 | [Valid Palindrome](./0125-valid-palindrome) | Easy | Java |
 | 128 | [Longest Consecutive Sequence](./0128-longest-consecutive-sequence) | Medium | Java |
@@ -113,7 +114,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum) | Medium | Java |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | Medium | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Easy | Java |
-| 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero) | Medium | - |
+| 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero) | Medium | Java |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude) | Easy | Java |
 <!-- PROBLEMS:END -->
 
