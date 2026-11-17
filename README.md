@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-74-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-75-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 27 |
-| Medium     | 44 |
+| Medium     | 45 |
 | Hard       | 3 |
-| **Total**  | **74** |
+| **Total**  | **75** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -67,7 +67,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Medium | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Medium | Java |
 | 88 | [Merge Sorted Array](./0088-merge-sorted-array) | Easy | Java |
-| 98 | [Validate Binary Search Tree](./0098-validate-binary-search-tree) | Medium | - |
+| 98 | [Validate Binary Search Tree](./0098-validate-binary-search-tree) | Medium | Java |
 | 100 | [Same Tree](./0100-same-tree) | Easy | Java |
 | 101 | [Symmetric Tree](./0101-symmetric-tree) | Easy | Java |
 | 104 | [Maximum Depth of Binary Tree](./0104-maximum-depth-of-binary-tree) | Easy | Java |
@@ -88,6 +88,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Easy | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Easy | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Easy | Java |
+| 230 | [Kth Smallest Element in a BST](./0230-kth-smallest-element-in-a-bst) | Medium | - |
 | 238 | [Product of Array Except Self](./0238-product-of-array-except-self) | Medium | Java |
 | 239 | [Sliding Window Maximum](./0239-sliding-window-maximum) | Hard | Java |
 | 240 | [Search a 2D Matrix II](./0240-search-a-2d-matrix-ii) | Medium | Java |
