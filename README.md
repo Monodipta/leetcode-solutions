@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-71-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-72-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -38,10 +38,10 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 <!-- PROGRESS:START -->
 | Difficulty | Solved |
 |------------|:------:|
-| Easy       | 25 |
+| Easy       | 26 |
 | Medium     | 43 |
 | Hard       | 3 |
-| **Total**  | **71** |
+| **Total**  | **72** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -70,7 +70,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 100 | [Same Tree](./0100-same-tree) | Easy | Java |
 | 101 | [Symmetric Tree](./0101-symmetric-tree) | Easy | Java |
 | 104 | [Maximum Depth of Binary Tree](./0104-maximum-depth-of-binary-tree) | Easy | Java |
-| 112 | [Path Sum](./0112-path-sum) | Easy | - |
+| 112 | [Path Sum](./0112-path-sum) | Easy | Java |
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) | Easy | Java |
 | 125 | [Valid Palindrome](./0125-valid-palindrome) | Easy | Java |
 | 128 | [Longest Consecutive Sequence](./0128-longest-consecutive-sequence) | Medium | Java |
@@ -101,6 +101,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 454 | [4Sum II](./0454-4sum-ii) | Medium | Java |
 | 523 | [Continuous Subarray Sum](./0523-continuous-subarray-sum) | Medium | Java |
 | 525 | [Contiguous Array](./0525-contiguous-array) | Medium | Java |
+| 543 | [Diameter of Binary Tree](./0543-diameter-of-binary-tree) | Easy | - |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Medium | Java |
 | 567 | [Permutation in String](./0567-permutation-in-string) | Medium | Java |
 | 611 | [Valid Triangle Number](./0611-valid-triangle-number) | Medium | Java |
