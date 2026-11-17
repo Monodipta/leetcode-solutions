@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-62-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-63-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 20 |
-| Medium     | 40 |
+| Medium     | 41 |
 | Hard       | 2 |
-| **Total**  | **62** |
+| **Total**  | **63** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -102,11 +102,12 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 724 | [Find Pivot Index](./0724-find-pivot-index) | Easy | Java |
 | 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | Java |
 | 881 | [Boats to Save People](./0881-boats-to-save-people) | Medium | Java |
+| 904 | [Fruit Into Baskets](./0904-fruit-into-baskets) | Medium | - |
 | 905 | [Sort Array By Parity](./0905-sort-array-by-parity) | Easy | Java |
 | 912 | [Sort an Array](./0912-sort-an-array) | Medium | Java |
 | 974 | [Subarray Sums Divisible by K](./0974-subarray-sums-divisible-by-k) | Medium | Java |
 | 977 | [Squares of a Sorted Array](./0977-squares-of-a-sorted-array) | Easy | Java |
-| 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii) | Medium | - |
+| 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii) | Medium | Java |
 | 1011 | [Capacity To Ship Packages Within D Days](./1011-capacity-to-ship-packages-within-d-days) | Medium | Java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum) | Medium | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Easy | Java |
