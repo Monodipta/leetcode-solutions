@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-79-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-80-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -38,10 +38,10 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 <!-- PROGRESS:START -->
 | Difficulty | Solved |
 |------------|:------:|
-| Easy       | 30 |
+| Easy       | 31 |
 | Medium     | 46 |
 | Hard       | 3 |
-| **Total**  | **79** |
+| **Total**  | **80** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -105,13 +105,14 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 523 | [Continuous Subarray Sum](./0523-continuous-subarray-sum) | Medium | Java |
 | 525 | [Contiguous Array](./0525-contiguous-array) | Medium | Java |
 | 543 | [Diameter of Binary Tree](./0543-diameter-of-binary-tree) | Easy | Java |
-| 547 | [Number of Provinces](./0547-number-of-provinces) | Medium | - |
+| 547 | [Number of Provinces](./0547-number-of-provinces) | Medium | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Medium | Java |
 | 567 | [Permutation in String](./0567-permutation-in-string) | Medium | Java |
 | 611 | [Valid Triangle Number](./0611-valid-triangle-number) | Medium | Java |
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
 | 704 | [Binary Search](./0704-binary-search) | Easy | Java |
 | 724 | [Find Pivot Index](./0724-find-pivot-index) | Easy | Java |
+| 733 | [Flood Fill](./0733-flood-fill) | Easy | - |
 | 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | Java |
 | 881 | [Boats to Save People](./0881-boats-to-save-people) | Medium | Java |
 | 904 | [Fruit Into Baskets](./0904-fruit-into-baskets) | Medium | Java |
