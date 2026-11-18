@@ -126,7 +126,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Easy | Java |
 | 1658 | [Minimum Operations to Reduce X to Zero](./1658-minimum-operations-to-reduce-x-to-zero) | Medium | Java |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude) | Easy | Java |
-| 1791 | [Find Center of Star Graph](./1791-find-center-of-star-graph) | Easy | - |
+| 1791 | [Find Center of Star Graph](./1791-find-center-of-star-graph) | Easy | Java |
 <!-- PROBLEMS:END -->
 
 ## How This Repo Works
