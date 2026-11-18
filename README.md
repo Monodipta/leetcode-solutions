@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-75-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-76-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -38,10 +38,10 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 <!-- PROGRESS:START -->
 | Difficulty | Solved |
 |------------|:------:|
-| Easy       | 27 |
+| Easy       | 28 |
 | Medium     | 45 |
 | Hard       | 3 |
-| **Total**  | **75** |
+| **Total**  | **76** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -88,7 +88,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Easy | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Easy | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Easy | Java |
-| 230 | [Kth Smallest Element in a BST](./0230-kth-smallest-element-in-a-bst) | Medium | - |
+| 230 | [Kth Smallest Element in a BST](./0230-kth-smallest-element-in-a-bst) | Medium | Java |
 | 238 | [Product of Array Except Self](./0238-product-of-array-except-self) | Medium | Java |
 | 239 | [Sliding Window Maximum](./0239-sliding-window-maximum) | Hard | Java |
 | 240 | [Search a 2D Matrix II](./0240-search-a-2d-matrix-ii) | Medium | Java |
@@ -109,6 +109,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 567 | [Permutation in String](./0567-permutation-in-string) | Medium | Java |
 | 611 | [Valid Triangle Number](./0611-valid-triangle-number) | Medium | Java |
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
+| 704 | [Binary Search](./0704-binary-search) | Easy | - |
 | 724 | [Find Pivot Index](./0724-find-pivot-index) | Easy | Java |
 | 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | Java |
 | 881 | [Boats to Save People](./0881-boats-to-save-people) | Medium | Java |
