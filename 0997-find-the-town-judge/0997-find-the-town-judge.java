@@ -1,0 +1,25 @@
+class Solution {
+    public int findJudge(int n, int[][] trust) {
+        int[] inDegree=new int[n+1];
+        int[] outDegree=new int[n+1];
+
+        for(int[] relation:trust){
+            int a=relation[0];
+            int b=relation[1];
+
+            outDegree[a]++;
+            inDegree[b]++;     
+        }
+
+        for(int i=1;i<=n;i++){
+            if(inDegree[i] == n-1 && outDegree[i]==0){
+                return i;
+            }
+        }
+        return -1;
+    }
+}
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
