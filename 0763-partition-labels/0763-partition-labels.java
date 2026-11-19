@@ -1,0 +1,34 @@
+import java.util.*;
+
+class Solution {
+    public List<Integer> partitionLabels(String s) {
+
+        int[] last = new int[26];
+
+        // Store the last occurrence of every character
+        for (int i = 0; i < s.length(); i++) {
+            last[s.charAt(i) - 'a'] = i;
+        }
+
+        List<Integer> result = new ArrayList<>();
+
+        int start = 0;
+        int end = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+
+            end = Math.max(end, last[s.charAt(i) - 'a']);
+
+            if (i == end) {
+                result.add(end - start + 1);
+                start = i + 1;
+            }
+        }
+
+        return result;
+    }
+}
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
