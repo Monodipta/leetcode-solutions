@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-91-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-92-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 31 |
-| Medium     | 57 |
+| Medium     | 58 |
 | Hard       | 3 |
-| **Total**  | **91** |
+| **Total**  | **92** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -116,12 +116,13 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Medium | Java |
 | 567 | [Permutation in String](./0567-permutation-in-string) | Medium | Java |
 | 611 | [Valid Triangle Number](./0611-valid-triangle-number) | Medium | Java |
+| 621 | [Task Scheduler](./0621-task-scheduler) | Medium | - |
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
 | 695 | [Max Area of Island](./0695-max-area-of-island) | Medium | Java |
 | 704 | [Binary Search](./0704-binary-search) | Easy | Java |
 | 724 | [Find Pivot Index](./0724-find-pivot-index) | Easy | Java |
 | 733 | [Flood Fill](./0733-flood-fill) | Easy | Java |
-| 763 | [Partition Labels](./0763-partition-labels) | Medium | - |
+| 763 | [Partition Labels](./0763-partition-labels) | Medium | Java |
 | 785 | [Is Graph Bipartite?](./0785-is-graph-bipartite) | Medium | Java |
 | 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | Java |
 | 881 | [Boats to Save People](./0881-boats-to-save-people) | Medium | Java |
