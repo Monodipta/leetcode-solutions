@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-89-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-90-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 31 |
-| Medium     | 55 |
+| Medium     | 56 |
 | Hard       | 3 |
-| **Total**  | **89** |
+| **Total**  | **90** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -104,8 +104,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 383 | [Ransom Note](./0383-ransom-note) | Easy | Java |
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Easy | Java |
 | 424 | [Longest Repeating Character Replacement](./0424-longest-repeating-character-replacement) | Medium | Java |
-| 435 | [Non-overlapping Intervals](./0435-non-overlapping-intervals) | Medium | - |
+| 435 | [Non-overlapping Intervals](./0435-non-overlapping-intervals) | Medium | Java |
 | 438 | [Find All Anagrams in a String](./0438-find-all-anagrams-in-a-string) | Medium | Java |
+| 452 | [Minimum Number of Arrows to Burst Balloons](./0452-minimum-number-of-arrows-to-burst-balloons) | Medium | - |
 | 454 | [4Sum II](./0454-4sum-ii) | Medium | Java |
 | 523 | [Continuous Subarray Sum](./0523-continuous-subarray-sum) | Medium | Java |
 | 525 | [Contiguous Array](./0525-contiguous-array) | Medium | Java |
