@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-88-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-89-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 31 |
-| Medium     | 54 |
+| Medium     | 55 |
 | Hard       | 3 |
-| **Total**  | **88** |
+| **Total**  | **89** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -78,7 +78,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) | Easy | Java |
 | 125 | [Valid Palindrome](./0125-valid-palindrome) | Easy | Java |
 | 128 | [Longest Consecutive Sequence](./0128-longest-consecutive-sequence) | Medium | Java |
-| 134 | [Gas Station](./0134-gas-station) | Medium | - |
+| 134 | [Gas Station](./0134-gas-station) | Medium | Java |
 | 148 | [Sort List](./0148-sort-list) | Medium | Java |
 | 153 | [Find Minimum in Rotated Sorted Array](./0153-find-minimum-in-rotated-sorted-array) | Medium | Java |
 | 154 | [Find Minimum in Rotated Sorted Array II](./0154-find-minimum-in-rotated-sorted-array-ii) | Hard | Java |
@@ -104,6 +104,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 383 | [Ransom Note](./0383-ransom-note) | Easy | Java |
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Easy | Java |
 | 424 | [Longest Repeating Character Replacement](./0424-longest-repeating-character-replacement) | Medium | Java |
+| 435 | [Non-overlapping Intervals](./0435-non-overlapping-intervals) | Medium | - |
 | 438 | [Find All Anagrams in a String](./0438-find-all-anagrams-in-a-string) | Medium | Java |
 | 454 | [4Sum II](./0454-4sum-ii) | Medium | Java |
 | 523 | [Continuous Subarray Sum](./0523-continuous-subarray-sum) | Medium | Java |
