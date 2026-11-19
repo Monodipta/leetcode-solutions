@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-81-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-82-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 31 |
-| Medium     | 47 |
+| Medium     | 48 |
 | Hard       | 3 |
-| **Total**  | **81** |
+| **Total**  | **82** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -82,7 +82,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 162 | [Find Peak Element](./0162-find-peak-element) | Medium | Java |
 | 167 | [Two Sum II - Input Array Is Sorted](./0167-two-sum-ii-input-array-is-sorted) | Medium | Java |
 | 179 | [Largest Number](./0179-largest-number) | Medium | Java |
-| 200 | [Number of Islands](./0200-number-of-islands) | Medium | - |
+| 200 | [Number of Islands](./0200-number-of-islands) | Medium | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Easy | Java |
 | 209 | [Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum) | Medium | Java |
 | 215 | [Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array) | Medium | Java |
@@ -111,6 +111,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 567 | [Permutation in String](./0567-permutation-in-string) | Medium | Java |
 | 611 | [Valid Triangle Number](./0611-valid-triangle-number) | Medium | Java |
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
+| 695 | [Max Area of Island](./0695-max-area-of-island) | Medium | - |
 | 704 | [Binary Search](./0704-binary-search) | Easy | Java |
 | 724 | [Find Pivot Index](./0724-find-pivot-index) | Easy | Java |
 | 733 | [Flood Fill](./0733-flood-fill) | Easy | Java |
