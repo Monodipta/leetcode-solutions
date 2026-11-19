@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-85-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-86-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 31 |
-| Medium     | 51 |
+| Medium     | 52 |
 | Hard       | 3 |
-| **Total**  | **85** |
+| **Total**  | **86** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -62,6 +62,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Hard | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Medium | Java |
 | 53 | [Maximum Subarray](./0053-maximum-subarray) | Medium | Java |
+| 55 | [Jump Game](./0055-jump-game) | Medium | - |
 | 56 | [Merge Intervals](./0056-merge-intervals) | Medium | Java |
 | 57 | [Insert Interval](./0057-insert-interval) | Medium | Java |
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Medium | Java |
@@ -116,7 +117,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 704 | [Binary Search](./0704-binary-search) | Easy | Java |
 | 724 | [Find Pivot Index](./0724-find-pivot-index) | Easy | Java |
 | 733 | [Flood Fill](./0733-flood-fill) | Easy | Java |
-| 785 | [Is Graph Bipartite?](./0785-is-graph-bipartite) | Medium | - |
+| 785 | [Is Graph Bipartite?](./0785-is-graph-bipartite) | Medium | Java |
 | 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | Java |
 | 881 | [Boats to Save People](./0881-boats-to-save-people) | Medium | Java |
 | 904 | [Fruit Into Baskets](./0904-fruit-into-baskets) | Medium | Java |
