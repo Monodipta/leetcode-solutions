@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-82-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-83-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 31 |
-| Medium     | 48 |
+| Medium     | 49 |
 | Hard       | 3 |
-| **Total**  | **82** |
+| **Total**  | **83** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -111,7 +111,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 567 | [Permutation in String](./0567-permutation-in-string) | Medium | Java |
 | 611 | [Valid Triangle Number](./0611-valid-triangle-number) | Medium | Java |
 | 643 | [Maximum Average Subarray I](./0643-maximum-average-subarray-i) | Easy | Java |
-| 695 | [Max Area of Island](./0695-max-area-of-island) | Medium | - |
+| 695 | [Max Area of Island](./0695-max-area-of-island) | Medium | Java |
 | 704 | [Binary Search](./0704-binary-search) | Easy | Java |
 | 724 | [Find Pivot Index](./0724-find-pivot-index) | Easy | Java |
 | 733 | [Flood Fill](./0733-flood-fill) | Easy | Java |
@@ -122,6 +122,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 912 | [Sort an Array](./0912-sort-an-array) | Medium | Java |
 | 974 | [Subarray Sums Divisible by K](./0974-subarray-sums-divisible-by-k) | Medium | Java |
 | 977 | [Squares of a Sorted Array](./0977-squares-of-a-sorted-array) | Easy | Java |
+| 994 | [Rotting Oranges](./0994-rotting-oranges) | Medium | - |
 | 997 | [Find the Town Judge](./0997-find-the-town-judge) | Easy | Java |
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii) | Medium | Java |
 | 1011 | [Capacity To Ship Packages Within D Days](./1011-capacity-to-ship-packages-within-d-days) | Medium | Java |
