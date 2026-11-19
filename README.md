@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-86-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-87-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 31 |
-| Medium     | 52 |
+| Medium     | 53 |
 | Hard       | 3 |
-| **Total**  | **86** |
+| **Total**  | **87** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -60,9 +60,10 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 34 | [Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array) | Medium | Java |
 | 35 | [Search Insert Position](./0035-search-insert-position) | Easy | Java |
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Hard | Java |
+| 45 | [Jump Game II](./0045-jump-game-ii) | Medium | - |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Medium | Java |
 | 53 | [Maximum Subarray](./0053-maximum-subarray) | Medium | Java |
-| 55 | [Jump Game](./0055-jump-game) | Medium | - |
+| 55 | [Jump Game](./0055-jump-game) | Medium | Java |
 | 56 | [Merge Intervals](./0056-merge-intervals) | Medium | Java |
 | 57 | [Insert Interval](./0057-insert-interval) | Medium | Java |
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Medium | Java |
