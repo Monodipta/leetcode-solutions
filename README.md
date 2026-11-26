@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-93-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-94-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -38,10 +38,10 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 <!-- PROGRESS:START -->
 | Difficulty | Solved |
 |------------|:------:|
-| Easy       | 32 |
+| Easy       | 33 |
 | Medium     | 58 |
 | Hard       | 3 |
-| **Total**  | **93** |
+| **Total**  | **94** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -66,6 +66,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 55 | [Jump Game](./0055-jump-game) | Medium | Java |
 | 56 | [Merge Intervals](./0056-merge-intervals) | Medium | Java |
 | 57 | [Insert Interval](./0057-insert-interval) | Medium | Java |
+| 70 | [Climbing Stairs](./0070-climbing-stairs) | Easy | - |
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Medium | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Medium | Java |
 | 88 | [Merge Sorted Array](./0088-merge-sorted-array) | Easy | Java |
@@ -108,7 +109,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 438 | [Find All Anagrams in a String](./0438-find-all-anagrams-in-a-string) | Medium | Java |
 | 452 | [Minimum Number of Arrows to Burst Balloons](./0452-minimum-number-of-arrows-to-burst-balloons) | Medium | Java |
 | 454 | [4Sum II](./0454-4sum-ii) | Medium | Java |
-| 509 | [Fibonacci Number](./0509-fibonacci-number) | Easy | - |
+| 509 | [Fibonacci Number](./0509-fibonacci-number) | Easy | Java |
 | 523 | [Continuous Subarray Sum](./0523-continuous-subarray-sum) | Medium | Java |
 | 525 | [Contiguous Array](./0525-contiguous-array) | Medium | Java |
 | 542 | [01 Matrix](./0542-01-matrix) | Medium | Java |
