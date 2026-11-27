@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-100-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-101-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 34 |
-| Medium     | 63 |
+| Medium     | 64 |
 | Hard       | 3 |
-| **Total**  | **100** |
+| **Total**  | **101** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -66,6 +66,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 55 | [Jump Game](./0055-jump-game) | Medium | Java |
 | 56 | [Merge Intervals](./0056-merge-intervals) | Medium | Java |
 | 57 | [Insert Interval](./0057-insert-interval) | Medium | Java |
+| 62 | [Unique Paths](./0062-unique-paths) | Medium | - |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Easy | Java |
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Medium | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Medium | Java |
@@ -102,7 +103,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 240 | [Search a 2D Matrix II](./0240-search-a-2d-matrix-ii) | Medium | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Easy | Java |
 | 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
-| 300 | [Longest Increasing Subsequence](./0300-longest-increasing-subsequence) | Medium | - |
+| 300 | [Longest Increasing Subsequence](./0300-longest-increasing-subsequence) | Medium | Java |
 | 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Easy | Java |
 | 304 | [Range Sum Query 2D - Immutable](./0304-range-sum-query-2d-immutable) | Medium | Java |
 | 322 | [Coin Change](./0322-coin-change) | Medium | Java |
