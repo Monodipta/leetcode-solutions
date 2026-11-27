@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-112-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-113-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 34 |
-| Medium     | 74 |
+| Medium     | 75 |
 | Hard       | 4 |
-| **Total**  | **112** |
+| **Total**  | **113** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -80,7 +80,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 110 | [Balanced Binary Tree](./0110-balanced-binary-tree) | Easy | Java |
 | 112 | [Path Sum](./0112-path-sum) | Easy | Java |
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) | Easy | Java |
-| 123 | [Best Time to Buy and Sell Stock III](./0123-best-time-to-buy-and-sell-stock-iii) | Hard | - |
+| 123 | [Best Time to Buy and Sell Stock III](./0123-best-time-to-buy-and-sell-stock-iii) | Hard | Java |
 | 125 | [Valid Palindrome](./0125-valid-palindrome) | Easy | Java |
 | 128 | [Longest Consecutive Sequence](./0128-longest-consecutive-sequence) | Medium | Java |
 | 134 | [Gas Station](./0134-gas-station) | Medium | Java |
@@ -124,6 +124,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 474 | [Ones and Zeroes](./0474-ones-and-zeroes) | Medium | Java |
 | 494 | [Target Sum](./0494-target-sum) | Medium | Java |
 | 509 | [Fibonacci Number](./0509-fibonacci-number) | Easy | Java |
+| 516 | [Longest Palindromic Subsequence](./0516-longest-palindromic-subsequence) | Medium | - |
 | 518 | [Coin Change II](./0518-coin-change-ii) | Medium | Java |
 | 523 | [Continuous Subarray Sum](./0523-continuous-subarray-sum) | Medium | Java |
 | 525 | [Contiguous Array](./0525-contiguous-array) | Medium | Java |
