@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-98-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-99-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 34 |
-| Medium     | 61 |
+| Medium     | 62 |
 | Hard       | 3 |
-| **Total**  | **98** |
+| **Total**  | **99** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -70,7 +70,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Medium | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Medium | Java |
 | 88 | [Merge Sorted Array](./0088-merge-sorted-array) | Easy | Java |
-| 91 | [Decode Ways](./0091-decode-ways) | Medium | - |
+| 91 | [Decode Ways](./0091-decode-ways) | Medium | Java |
 | 98 | [Validate Binary Search Tree](./0098-validate-binary-search-tree) | Medium | Java |
 | 100 | [Same Tree](./0100-same-tree) | Easy | Java |
 | 101 | [Symmetric Tree](./0101-symmetric-tree) | Easy | Java |
@@ -104,6 +104,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
 | 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Easy | Java |
 | 304 | [Range Sum Query 2D - Immutable](./0304-range-sum-query-2d-immutable) | Medium | Java |
+| 322 | [Coin Change](./0322-coin-change) | Medium | - |
 | 347 | [Top K Frequent Elements](./0347-top-k-frequent-elements) | Medium | Java |
 | 383 | [Ransom Note](./0383-ransom-note) | Easy | Java |
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Easy | Java |
