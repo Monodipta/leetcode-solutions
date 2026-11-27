@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-107-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-108-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 34 |
-| Medium     | 70 |
+| Medium     | 71 |
 | Hard       | 3 |
-| **Total**  | **107** |
+| **Total**  | **108** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -102,6 +102,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 239 | [Sliding Window Maximum](./0239-sliding-window-maximum) | Hard | Java |
 | 240 | [Search a 2D Matrix II](./0240-search-a-2d-matrix-ii) | Medium | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Easy | Java |
+| 279 | [Perfect Squares](./0279-perfect-squares) | Medium | - |
 | 283 | [Move Zeroes](./0283-move-zeroes) | Easy | Java |
 | 300 | [Longest Increasing Subsequence](./0300-longest-increasing-subsequence) | Medium | Java |
 | 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Easy | Java |
