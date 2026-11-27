@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-94-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-95-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -38,10 +38,10 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 <!-- PROGRESS:START -->
 | Difficulty | Solved |
 |------------|:------:|
-| Easy       | 33 |
+| Easy       | 34 |
 | Medium     | 58 |
 | Hard       | 3 |
-| **Total**  | **94** |
+| **Total**  | **95** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -66,7 +66,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 55 | [Jump Game](./0055-jump-game) | Medium | Java |
 | 56 | [Merge Intervals](./0056-merge-intervals) | Medium | Java |
 | 57 | [Insert Interval](./0057-insert-interval) | Medium | Java |
-| 70 | [Climbing Stairs](./0070-climbing-stairs) | Easy | - |
+| 70 | [Climbing Stairs](./0070-climbing-stairs) | Easy | Java |
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Medium | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Medium | Java |
 | 88 | [Merge Sorted Array](./0088-merge-sorted-array) | Easy | Java |
@@ -124,6 +124,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 704 | [Binary Search](./0704-binary-search) | Easy | Java |
 | 724 | [Find Pivot Index](./0724-find-pivot-index) | Easy | Java |
 | 733 | [Flood Fill](./0733-flood-fill) | Easy | Java |
+| 746 | [Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs) | Easy | - |
 | 763 | [Partition Labels](./0763-partition-labels) | Medium | Java |
 | 785 | [Is Graph Bipartite?](./0785-is-graph-bipartite) | Medium | Java |
 | 875 | [Koko Eating Bananas](./0875-koko-eating-bananas) | Medium | Java |
