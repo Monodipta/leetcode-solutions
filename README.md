@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-111-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-112-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -40,8 +40,8 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 |------------|:------:|
 | Easy       | 34 |
 | Medium     | 74 |
-| Hard       | 3 |
-| **Total**  | **111** |
+| Hard       | 4 |
+| **Total**  | **112** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -68,7 +68,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 57 | [Insert Interval](./0057-insert-interval) | Medium | Java |
 | 62 | [Unique Paths](./0062-unique-paths) | Medium | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Easy | Java |
-| 72 | [Edit Distance](./0072-edit-distance) | Medium | - |
+| 72 | [Edit Distance](./0072-edit-distance) | Medium | Java |
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Medium | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Medium | Java |
 | 88 | [Merge Sorted Array](./0088-merge-sorted-array) | Easy | Java |
@@ -80,6 +80,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 110 | [Balanced Binary Tree](./0110-balanced-binary-tree) | Easy | Java |
 | 112 | [Path Sum](./0112-path-sum) | Easy | Java |
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock) | Easy | Java |
+| 123 | [Best Time to Buy and Sell Stock III](./0123-best-time-to-buy-and-sell-stock-iii) | Hard | - |
 | 125 | [Valid Palindrome](./0125-valid-palindrome) | Easy | Java |
 | 128 | [Longest Consecutive Sequence](./0128-longest-consecutive-sequence) | Medium | Java |
 | 134 | [Gas Station](./0134-gas-station) | Medium | Java |
