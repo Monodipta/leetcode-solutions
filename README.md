@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-106-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-107-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 34 |
-| Medium     | 69 |
+| Medium     | 70 |
 | Hard       | 3 |
-| **Total**  | **106** |
+| **Total**  | **107** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -108,6 +108,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 304 | [Range Sum Query 2D - Immutable](./0304-range-sum-query-2d-immutable) | Medium | Java |
 | 322 | [Coin Change](./0322-coin-change) | Medium | Java |
 | 347 | [Top K Frequent Elements](./0347-top-k-frequent-elements) | Medium | Java |
+| 377 | [Combination Sum IV](./0377-combination-sum-iv) | Medium | Java |
 | 383 | [Ransom Note](./0383-ransom-note) | Easy | Java |
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Easy | Java |
 | 416 | [Partition Equal Subset Sum](./0416-partition-equal-subset-sum) | Medium | Java |
@@ -148,7 +149,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 997 | [Find the Town Judge](./0997-find-the-town-judge) | Easy | Java |
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii) | Medium | Java |
 | 1011 | [Capacity To Ship Packages Within D Days](./1011-capacity-to-ship-packages-within-d-days) | Medium | Java |
-| 1049 | [Last Stone Weight II](./1049-last-stone-weight-ii) | Medium | - |
+| 1049 | [Last Stone Weight II](./1049-last-stone-weight-ii) | Medium | Java |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum) | Medium | Java |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | Medium | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Easy | Java |
