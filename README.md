@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-109-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-110-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 34 |
-| Medium     | 72 |
+| Medium     | 73 |
 | Hard       | 3 |
-| **Total**  | **109** |
+| **Total**  | **110** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -118,7 +118,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 438 | [Find All Anagrams in a String](./0438-find-all-anagrams-in-a-string) | Medium | Java |
 | 452 | [Minimum Number of Arrows to Burst Balloons](./0452-minimum-number-of-arrows-to-burst-balloons) | Medium | Java |
 | 454 | [4Sum II](./0454-4sum-ii) | Medium | Java |
-| 473 | [Matchsticks to Square](./0473-matchsticks-to-square) | Medium | - |
+| 473 | [Matchsticks to Square](./0473-matchsticks-to-square) | Medium | Java |
 | 474 | [Ones and Zeroes](./0474-ones-and-zeroes) | Medium | Java |
 | 494 | [Target Sum](./0494-target-sum) | Medium | Java |
 | 509 | [Fibonacci Number](./0509-fibonacci-number) | Easy | Java |
@@ -152,6 +152,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 1004 | [Max Consecutive Ones III](./1004-max-consecutive-ones-iii) | Medium | Java |
 | 1011 | [Capacity To Ship Packages Within D Days](./1011-capacity-to-ship-packages-within-d-days) | Medium | Java |
 | 1049 | [Last Stone Weight II](./1049-last-stone-weight-ii) | Medium | Java |
+| 1143 | [Longest Common Subsequence](./1143-longest-common-subsequence) | Medium | - |
 | 1314 | [Matrix Block Sum](./1314-matrix-block-sum) | Medium | Java |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](./1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | Medium | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Easy | Java |
