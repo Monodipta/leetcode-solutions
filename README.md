@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-103-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-104-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 34 |
-| Medium     | 66 |
+| Medium     | 67 |
 | Hard       | 3 |
-| **Total**  | **103** |
+| **Total**  | **104** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -116,8 +116,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 438 | [Find All Anagrams in a String](./0438-find-all-anagrams-in-a-string) | Medium | Java |
 | 452 | [Minimum Number of Arrows to Burst Balloons](./0452-minimum-number-of-arrows-to-burst-balloons) | Medium | Java |
 | 454 | [4Sum II](./0454-4sum-ii) | Medium | Java |
-| 494 | [Target Sum](./0494-target-sum) | Medium | - |
+| 494 | [Target Sum](./0494-target-sum) | Medium | Java |
 | 509 | [Fibonacci Number](./0509-fibonacci-number) | Easy | Java |
+| 518 | [Coin Change II](./0518-coin-change-ii) | Medium | - |
 | 523 | [Continuous Subarray Sum](./0523-continuous-subarray-sum) | Medium | Java |
 | 525 | [Contiguous Array](./0525-contiguous-array) | Medium | Java |
 | 542 | [01 Matrix](./0542-01-matrix) | Medium | Java |
