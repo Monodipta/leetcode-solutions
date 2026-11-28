@@ -2,7 +2,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-monodipta--maity-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/monodipta-maity/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monodipta-181717?logo=github&logoColor=white)](https://github.com/Monodipta)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-113-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-114-brightgreen)
 ![Synced with](https://img.shields.io/badge/Synced%20with-LeetHub%20AI-blue)
 
 My personal collection of LeetCode solutions, built up while preparing for coding interviews. Every problem I solve on LeetCode is pushed to this repository automatically using [LeetHub AI](https://github.com/gaulghost).
@@ -39,9 +39,9 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | Difficulty | Solved |
 |------------|:------:|
 | Easy       | 34 |
-| Medium     | 75 |
+| Medium     | 76 |
 | Hard       | 4 |
-| **Total**  | **113** |
+| **Total**  | **114** |
 <!-- PROGRESS:END -->
 
 ## Solved Problems
@@ -93,6 +93,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 198 | [House Robber](./0198-house-robber) | Medium | Java |
 | 200 | [Number of Islands](./0200-number-of-islands) | Medium | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Easy | Java |
+| 207 | [Course Schedule](./0207-course-schedule) | Medium | - |
 | 209 | [Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum) | Medium | Java |
 | 213 | [House Robber II](./0213-house-robber-ii) | Medium | Java |
 | 215 | [Kth Largest Element in an Array](./0215-kth-largest-element-in-an-array) | Medium | Java |
@@ -124,7 +125,7 @@ Folders are sorted by problem number, so you can jump straight to any problem.
 | 474 | [Ones and Zeroes](./0474-ones-and-zeroes) | Medium | Java |
 | 494 | [Target Sum](./0494-target-sum) | Medium | Java |
 | 509 | [Fibonacci Number](./0509-fibonacci-number) | Easy | Java |
-| 516 | [Longest Palindromic Subsequence](./0516-longest-palindromic-subsequence) | Medium | - |
+| 516 | [Longest Palindromic Subsequence](./0516-longest-palindromic-subsequence) | Medium | Java |
 | 518 | [Coin Change II](./0518-coin-change-ii) | Medium | Java |
 | 523 | [Continuous Subarray Sum](./0523-continuous-subarray-sum) | Medium | Java |
 | 525 | [Contiguous Array](./0525-contiguous-array) | Medium | Java |
